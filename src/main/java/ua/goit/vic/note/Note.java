@@ -1,4 +1,4 @@
-package ua.goit.vic;
+package ua.goit.vic.note;
 
 
 import lombok.Data;
